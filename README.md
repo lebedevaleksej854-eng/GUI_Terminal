@@ -23,12 +23,12 @@
 
 ## 📦 Версии
 
-Все актуальные и архивные версии доступны на [странице релизов](https://github.com/lebedevaleksej854-eng/GUI_Terminal/releases)
+Все актуальные и архивные версии доступны на [странице релизов](https://github.com/UIDevStudio/GUI_Terminal/releases)
 
 | Версия | Статус | Ссылка |
 | :---: | :---: | :---: |
-| v1.0 | Устаревшая версия | [Скачать](https://github.com/lebedevaleksej854-eng/GUI_Terminal/releases/tag/terminal_v1.0) |
-| **v1.1** | 🆕 Последнее обновление (рекомендуется) | [Скачать](https://github.com/lebedevaleksej854-eng/GUI_Terminal/releases/tag/terminal_v1.1) |
+| v1.0 | Устаревшая версия | [Скачать](https://github.com/UIDevStudio/GUI_Terminal/releases/tag/terminal_v1.0) |
+| **v1.1** | 🆕 Последнее обновление (рекомендуется) | [Скачать](https://github.com/UIDevStudio/GUI_Terminal/releases/tag/terminal_v1.1) |
 
 ---
 
