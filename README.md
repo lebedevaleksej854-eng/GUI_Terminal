@@ -27,8 +27,9 @@
 
 | Версия | Статус | Ссылка |
 | :---: | :---: | :---: |
+| **v1.2** | Последнее обновление (рекомендуется) | [Скачать](https://github.com/UIDevStudio/GUI_Terminal/releases/tag/terminal_v1.2) |
+| v1.1 | Устаревшая версия | [Скачать](https://github.com/UIDevStudio/GUI_Terminal/releases/tag/terminal_v1.1) |
 | v1.0 | Устаревшая версия | [Скачать](https://github.com/UIDevStudio/GUI_Terminal/releases/tag/terminal_v1.0) |
-| **v1.1** | 🆕 Последнее обновление (рекомендуется) | [Скачать](https://github.com/UIDevStudio/GUI_Terminal/releases/tag/terminal_v1.1) |
 
 ---
 
